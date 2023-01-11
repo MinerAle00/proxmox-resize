@@ -9,6 +9,6 @@ L'installazione viene fatta tramite CLI. Segui i vari comandi step by step per l
 ~# sudo apt install git
 ~# git clone https://github.com/MinerAle00/proxmox-resize.git
 ~# cd proxmox-resize
-~# sudo bash start.sh
+~# sudo bash script.sh
 ```
 Enjoy!
